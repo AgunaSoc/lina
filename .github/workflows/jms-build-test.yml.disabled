@@ -35,7 +35,7 @@ jobs:
           context: .
           push: true
           file: Dockerfile
-          tags: ghcr.io/jumpserver/${{ matrix.component }}:${{ matrix.version }}
+          tags: ghcr.io/atherlock/${{ matrix.component }}:${{ matrix.version }}
           platforms: linux/amd64
           build-args: |
             VERSION=${{ matrix.version }}

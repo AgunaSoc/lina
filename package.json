@@ -1,8 +1,8 @@
 {
   "name": "lina",
   "version": "v4.0.0",
-  "description": "JumpServer Web UI",
-  "author": "JumpServer Team <support@lxware.hk>",
+  "description": "Atherlock Web UI",
+  "author": "Atherlock Team <support@lxware.hk>",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service serve",
@@ -41,7 +41,7 @@
     "deepmerge": "^4.2.2",
     "dompurify": "^3.2.4",
     "echarts": "4.7.0",
-    "element-ui": "https://github.com/jumpserver-dev/element/releases/download/v2.15.15/jumpserver-element-ui-2.15.15.tgz",
+    "element-ui": "https://github.com/atherlock-dev/element/releases/download/v2.15.15/atherlock-element-ui-2.15.15.tgz",
     "eslint-plugin-html": "^6.0.0",
     "highlight.js": "^11.9.0",
     "install": "^0.13.0",

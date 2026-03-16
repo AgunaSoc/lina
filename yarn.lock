@@ -5227,9 +5227,9 @@ electron-to-chromium@^1.5.238:
   resolved "https://registry.npmmirror.com/electron-to-chromium/-/electron-to-chromium-1.5.243.tgz#b13b4a046f49f46574d643d4e2ec2ea33ce8cfe7"
   integrity sha512-ZCphxFW3Q1TVhcgS9blfut1PX8lusVi2SvXQgmEEnK4TCmE1JhH2JkjJN+DNt0pJJwfBri5AROBnz2b/C+YU9g==
 
-"element-ui@https://github.com/jumpserver-dev/element/releases/download/v2.15.15/jumpserver-element-ui-2.15.15.tgz":
+"element-ui@https://github.com/atherlock-dev/element/releases/download/v2.15.15/atherlock-element-ui-2.15.15.tgz":
   version "2.15.15"
-  resolved "https://github.com/jumpserver-dev/element/releases/download/v2.15.15/jumpserver-element-ui-2.15.15.tgz#2944c7c001b49522437462b44dc70ac8ce34dfa7"
+  resolved "https://github.com/atherlock-dev/element/releases/download/v2.15.15/atherlock-element-ui-2.15.15.tgz#2944c7c001b49522437462b44dc70ac8ce34dfa7"
   dependencies:
     async-validator "~1.8.1"
     babel-helper-vue-jsx-merge-props "^2.0.0"

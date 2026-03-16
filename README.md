@@ -1,19 +1,19 @@
 # Lina
 
-Lina 是 JumpServer 的前端 UI 项目, 主要使用 [Vue](https://cn.vuejs.org/), [Element UI](https://element.eleme.cn/) 完成, 
+Lina 是 Atherlock 的前端 UI 项目, 主要使用 [Vue](https://cn.vuejs.org/), [Element UI](https://element.eleme.cn/) 完成, 
 名字来源于 Dota 英雄 [Lina](https://baike.baidu.com/item/%E8%8E%89%E5%A8%9C/16693979)
 
 ## 开发运行
 
 ```
-0. 前置条件: 部署运行好 JumpServer API 服务器
+0. 前置条件: 部署运行好 Atherlock API 服务器
 
 1. 安装依赖
 $ yarn install
 
 2. 修改 .env.development VUE_APP_CORE_HOST
 # ...
-VUE_APP_CORE_HOST = 'JUMPSERVER_APIHOST'
+VUE_APP_CORE_HOST = 'ATHERLOCK_APIHOST'
 
 3. 运行
 $ yarn serve
@@ -46,4 +46,4 @@ server {
 
 
 ## License & Copyright
-Be consistent with [jumpserver](https://github.com/jumpserver/jumpserver)
+Be consistent with [atherlock](https://github.com/atherlock/atherlock)
